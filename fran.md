@@ -1,1 +1,1 @@
-Hola mi nombre es Francisco, tengo 22 años, soy de lanus, hice este curso en el 2022, antes hice la carrera de programacion de videojuegos, tengo 7 animales, 4 perros y 3 gatos.
+Hola mi nombre es Francisco Buddemeyer Izzo, tengo 22 años, soy de lanus, hice este curso en el 2022, antes hice la carrera de programacion de videojuegos, tengo 7 animales, 4 perros y 3 gatos.
