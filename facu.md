@@ -1,0 +1,2 @@
+# Facu Erbin
+¡Hola! Mi nombre es Facu, soy de Mendoza, Argentina, hice este curso en el 2020 y desde entonces me he seguido formando en otras tecnologías. Soy profe en DH desde principios del 2021, además soy estudiante avanzado de Ingeniería en Sistemas de Información. Espero poder ayudarte a desarrollarte como programador Full Stack. Dato de color, en mis tiempos libres me gusta tocar la guitarra.
