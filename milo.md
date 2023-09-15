@@ -1,2 +1,2 @@
-# Camilo
+# Camilo Griffa
 ¡Hola! Soy desarrollador full stack de Córdoba, Argentina. Trabajo desde hace 2 años en el mundo IT. Soy estudiante de Ingeniería en Software. Me apasiona la tecnología y el desarrollo de software, y siempre estoy buscando aprender y mejorar mis habilidades.
